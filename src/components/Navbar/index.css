@@ -1,0 +1,27 @@
+.navbar{
+  position: absolute;
+  top: 15px;
+  width: 100%;
+  height: 20%;
+  font-size: .8em;
+  color: #3b3d3c;
+}
+
+.navbar-right {
+  float: right;
+  display: inline-block;
+  min-width: 15%;
+  padding: .6em;
+}
+
+.navbar-link {
+  padding-right: .8em;
+}
+
+.navbar-link:hover {
+  cursor: pointer;
+}
+
+.navbar-toggle {
+  font-size: 1.2em;
+}

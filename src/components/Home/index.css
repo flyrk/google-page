@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15%;
+  border: 1px solid;
+  width: 60%;
+  height: 100%;
+}
+
+.home-logo {
+  width: 40%;
+  height: 30%;
+  margin: 1.2em;
+}
