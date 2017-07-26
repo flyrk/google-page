@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 5%;
+  background-color: rgb(221, 221, 221);
+  font-size: .8em;
+}
+
+.extr-link {
+  padding-top: .6em;
+  margin-left: 5%;
+}
+
+.link-word {
+  padding-right: 1.8em;
+  color: rgb(128, 125, 125);
+}
+
+.link-word:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
